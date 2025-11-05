@@ -1,0 +1,14 @@
+{
+  "routes": [
+    {
+      "src": "^/(.*)$",
+      "has": [
+        {
+          "type": "host",
+          "value": "datajuslegal.com.br"
+        }
+      ],
+      "dest": "/api/force-redirect"
+    }
+  ]
+}
