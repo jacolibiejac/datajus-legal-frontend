@@ -1,11 +1,31 @@
-> Why do I have a folder named ".vercel" in my project?
-The ".vercel" folder is created when you link a directory to a Vercel project.
+# ⚖️ DataJus Legal — Frontend Jurídico de Dados
 
-> What does the "project.json" file contain?
-The "project.json" file contains:
-- The ID of the Vercel project that you linked ("projectId")
-- The ID of the user or team your Vercel project is owned by ("orgId")
+Bem-vindo(a) ao repositório oficial do **DataJus Legal**, uma plataforma digital voltada para o mercado jurídico, desenvolvida com foco em **usabilidade**, **automação** e **segurança**.
 
-> Should I commit the ".vercel" folder?
-No, you should not share the ".vercel" folder with anyone.
-Upon creation, it will be automatically added to your ".gitignore" file.
+---
+
+## 🌐 Sobre o Projeto
+O **DataJus Legal** é um portal jurídico moderno que combina tecnologia e direito para oferecer:
+- Integração de **pagamentos via Pix e cartão de crédito**;
+- **Automação de entregas digitais** (documentos, ebooks e relatórios);
+- Interface otimizada para **advogados e escritórios de advocacia**;
+- Design responsivo e desempenho de alto nível.
+
+Nosso objetivo é simplificar o acesso a soluções jurídicas digitais de forma rápida, confiável e segura.
+
+---
+
+## 🧠 Tecnologias Utilizadas
+O projeto foi desenvolvido utilizando tecnologias modernas de frontend:
+
+| Tecnologia | Descrição |
+|-------------|------------|
+| **React.js / Vite.js** | Frameworks de alta performance para SPA (Single Page Application) |
+| **TailwindCSS** | Estilização moderna e responsiva |
+| **PostCSS** | Processamento e otimização de CSS |
+| **Node.js (Vercel)** | Deploy rápido e integrado com CI/CD |
+| **JavaScript ES6+** | Base da lógica e interatividade |
+
+---
+
+## 🚀 Estrutura do Projeto
