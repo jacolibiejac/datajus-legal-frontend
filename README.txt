@@ -29,3 +29,37 @@ O projeto foi desenvolvido utilizando tecnologias modernas de frontend:
 ---
 
 ## 🚀 Estrutura do Projeto
+├── App.jsx
+├── index.html
+├── main.jsx
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── vercel.json
+└── LICENÇA
+
+
+## ⚙️ Funcionalidades Principais
+- 💳 Pagamentos automáticos via Pix e Mercado Pago  
+- 📦 Entrega instantânea de produtos digitais  
+- 🔐 Painel protegido e seguro  
+- 📱 Layout 100% responsivo  
+- ⚡ Desempenho otimizado com Vite e Tailwind  
+
+
+## 🧾 Licença
+Este projeto é **propriedade exclusiva da DataJus Legal**.  
+Todos os direitos reservados © 2025.  
+O uso, cópia ou redistribuição deste código sem autorização é **estritamente proibido**.  
+Veja o arquivo [`LICENÇA`](./LICENÇA) para mais informações.
+
+
+## 👩‍💼 Contato
+📧 **E-mail:** contato@datajuslegal.com.br  
+🌐 **Site oficial:** [www.datajuslegal.com.br](https://www.datajuslegal.com.br)  
+📱 **Instagram:** [@BasesJuridicas](https://www.instagram.com/basesjuridicas_?igsh=MXR1NWdlazdhZ3o2OQ==)
+
+
+> Desenvolvido com dedicação por **Jack BOJ* 💻  
+> “Transformando tecnologia em soluções jurídicas inteligentes.”
+
