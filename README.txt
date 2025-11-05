@@ -56,8 +56,8 @@ Veja o arquivo [`LICENÇA`](./LICENÇA) para mais informações.
 
 ## 👩‍💼 Contato
 📧 **E-mail:** contato@datajuslegal.com.br  
-🌐 **Site oficial:**(https://www.datajuslegal.com.br)  
-📱 **Instagram:** [@BasesJuridicas](https://www.instagram.com/basesjuridicas_?igsh=MXR1NWdlazdhZ3o2OQ==)
+🌐 **Site oficial:**[https://www.datajuslegal.com.br]
+📱 **Instagram:** [@BasesJuridicas][(https://www.instagram.com/basesjuridicas_?igsh=MXR1NWdlazdhZ3o2OQ==)]
 
 
 > Desenvolvido com dedicação por **Jack BOJ* 💻  
