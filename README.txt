@@ -39,6 +39,9 @@ O projeto foi desenvolvido utilizando tecnologias modernas de frontend:
 └── LICENÇA
 
 
+
+---
+
 ## ⚙️ Funcionalidades Principais
 - 💳 Pagamentos automáticos via Pix e Mercado Pago  
 - 📦 Entrega instantânea de produtos digitais  
@@ -46,6 +49,7 @@ O projeto foi desenvolvido utilizando tecnologias modernas de frontend:
 - 📱 Layout 100% responsivo  
 - ⚡ Desempenho otimizado com Vite e Tailwind  
 
+---
 
 ## 🧾 Licença
 Este projeto é **propriedade exclusiva da DataJus Legal**.  
@@ -53,13 +57,15 @@ Todos os direitos reservados © 2025.
 O uso, cópia ou redistribuição deste código sem autorização é **estritamente proibido**.  
 Veja o arquivo [`LICENÇA`](./LICENÇA) para mais informações.
 
+---
 
 ## 👩‍💼 Contato
 📧 **E-mail:** contato@datajuslegal.com.br  
-🌐 **Site oficial:**[https://www.datajuslegal.com.br]
-📱 **Instagram:** [@BasesJuridicas][(https://www.instagram.com/basesjuridicas_?igsh=MXR1NWdlazdhZ3o2OQ==)]
+🌐 **Site oficial:** [www.datajuslegal.com.br](https://www.datajuslegal.com.br)  
+📱 **Instagram:** [@datajuslegal](https://www.instagram.com/datajuslegal) *(caso exista)*
 
+---
 
-> Desenvolvido com dedicação por **Jack BOJ* 💻  
+> Desenvolvido com dedicação por **Jack BOJ** 💻  
 > “Transformando tecnologia em soluções jurídicas inteligentes.”
 
